@@ -1,4 +1,10 @@
-The time or name of your cohort:
+The time or name of your cohort: Morning QA 7:30am
 
 
 First names of all your cohort classmates:
+Israel
+Conner
+Owen
+Craig
+Michael
+Cameron
